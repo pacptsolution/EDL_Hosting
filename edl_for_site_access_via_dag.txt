@@ -3,3 +3,6 @@ www.bbc.com
 www.aol.com
 www.amazon.com
 www.flipkart.com
+www.cnn.com
+www.nytimes.com
+www.theguardian.com
