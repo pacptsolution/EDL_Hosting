@@ -6,3 +6,4 @@ www.flipkart.com
 www.cnn.com
 www.nytimes.com
 www.theguardian.com
+www.alibaba.com
